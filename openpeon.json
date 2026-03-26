@@ -1,10 +1,10 @@
 {
 	"cesp_version": "1.0",
-	"name": "post_gent",
+	"name": "posh-gent",
 	"display_name": "Posh Gentleman",
 	"version": "1.0.0",
 	"author": {
-		"name": "TomStine",
+		"name": "13zebras",
 		"github": "13zebras"
 	},
 	"license": "CC-BY-NC-4.0",
